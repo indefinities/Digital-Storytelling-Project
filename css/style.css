@@ -23,6 +23,7 @@ body{
  /* ---------------- CS1200 LESSONS ---------------- */
 #cs1200-lessons{
     background-color: #e1bee7;
+    padding-bottom: 3%;
 }
 .cs1200-section{
     overflow: auto;
