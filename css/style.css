@@ -51,13 +51,24 @@ body{
 #campus-connections{
     background-color: #bbdefb;
 }
-#campus-connections p{
-    margin-right: 15%;
-    margin-left: 15%;
+.cc-section{
+    overflow: auto;
 }
-#NUHacks img{
+#hacks-logo{
     width: 300px;
 }
+.cc-images{
+    float: left;
+    width: 40%;
+}
+.long-img{
+    display: inline-flex;
+    flex-direction: row;
+    vertical-align: top;
+    width: 300px;
+    margin: 3%;
+}
+
 
  /* ---------------- SAIL ATTRIBUTES ---------------- */
 #SAIL{
