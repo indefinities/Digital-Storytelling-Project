@@ -27,18 +27,17 @@ body{
 .cs1200-section{
     overflow: auto;
     margin-right: 3%;
+    margin-left: 3%;
 }
 .left-img{
     float: left;
     width: 500px;
-    margin-left: 3%;
     margin-right: 3%;
 }
 .right-img{
     float: right;
     width: 500px;
     margin-left: 3%;
-    margin-right: 3%;
 }
 .center-img{
     width: 500px;
