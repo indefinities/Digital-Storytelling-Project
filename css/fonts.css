@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+
 
 .header{
     text-align: center;
@@ -13,6 +15,7 @@ h2{
 }
 h3{
     font-size: 42px;
+    font-family: 'Sedgwick Ave', cursive;
 }
 h4{
     font-size: 36px;
