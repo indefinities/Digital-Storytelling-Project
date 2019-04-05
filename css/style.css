@@ -58,9 +58,7 @@ hr{
 }
 .cc-section{
     overflow: auto;
-    margin-top: 3%;
-    margin-left: 3%;
-    margin-right: 3%;
+    margin: 3%;
 }
 #hacks-logo{
     width: 300px;
