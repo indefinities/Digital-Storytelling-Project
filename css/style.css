@@ -1,6 +1,7 @@
 body{
     height: 2000px;
 }
+
 .header img{
     width: 500px;
     display: block;
@@ -8,22 +9,56 @@ body{
     margin-left: auto;
 }
 
+.section-header{
+    padding-top: 3%;
+}
 
-
+ /* ---------------- MAIN TITLE  ---------------- */
 #title-page{
     padding-top: 15%;
     height: 100vh;
     background-color: #ffebee;
 }
+
+ /* ---------------- CS1200 LESSONS ---------------- */
 #cs1200-lessons{
     background-color: #e1bee7;
 }
+.cs1200-section{
+    overflow: auto;
+    margin-right: 3%;
+}
+.left-img{
+    float: left;
+    width: 500px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.center-img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ /* ---------------- CAMPUS CONNECTIONS ---------------- */
 #campus-connections{
     background-color: #bbdefb;
 }
+#campus-connections p{
+    margin-right: 15%;
+    margin-left: 15%;
+}
+#NUHacks img{
+    width: 300px;
+}
+
+ /* ---------------- SAIL ATTRIBUTES ---------------- */
 #SAIL{
     background-color: #ffecb3;
 }
+
+ /* ---------------- FRESHMAN ADVICE  ---------------- */
 #freshman-advice{
     background-color: #ffccbc;
 }

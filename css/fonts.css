@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
 @import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
 
-
-.header{
-    text-align: center;
-}
 h1{
     font-family: 'Fascinate Inline', cursive;
     font-size: 64px;
@@ -18,15 +14,31 @@ h3{
     font-family: 'Sedgwick Ave', cursive;
 }
 h4{
+    font-family: 'Sedgwick Ave', cursive;
     font-size: 36px;
 }
 h5{
+    font-family: 'Sedgwick Ave', cursive;
     font-size: 30px;
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 24px;
 }
+
+
+.header{
+    text-align: center;
+}
+
+
+
+#resume-text{
+    font-size: 32px;
+}
+
+
+
 .main-links{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
