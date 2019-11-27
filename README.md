@@ -3,4 +3,5 @@ During spring semester of freshman year, once I returned from N.U.in Canada, I p
 
 ***
 
-https://indefinities.github.io/digital-storytelling-project
+View this project at:
+https://indefinities.github.io/Digital-Storytelling-Project/
