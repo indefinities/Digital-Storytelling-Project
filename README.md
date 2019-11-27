@@ -1,3 +1,6 @@
 # Digital Storytelling Project
-This is an assingment I made for CS 1200 Leadership Skill Development at
-Northeastern University.
+During spring semester of freshman year, once I returned from N.U.in Canada, I participated in two hackathons: __Hack@Brown__ and __TechTogether Boston__. During these hackathons and through taking 5D tools, I was able to learn a lot oabout HTML and CSS at an accelerated pace and wanted to demonstrate my skills through constructing a website displaying all my accomplishments during the semester. 
+
+***
+
+https://indefinities.github.io/digital-storytelling-project
